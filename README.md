@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jacquelinejustice1
-- 👀 I’m interested in Front End Development, Back End Developement, Web Development, and UX/UI Design
+- 👀 I’m interested in Front End Development, Web Development, and UX/UI Design
 - 🌱 I’m currently learning Software Engineering at Austin Peay State University
 - 📫 How to reach me: justicejacqueline2@gmail.com
 - 😄 Pronouns: SHE/HER
